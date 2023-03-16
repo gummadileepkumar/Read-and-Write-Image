@@ -79,7 +79,9 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
+```
 ![MODEL](1.png)
+```
 ### ii)Write the imagefile
 ```
 ![MODEL](2.png)
