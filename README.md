@@ -82,16 +82,16 @@ cv2.waitKey(0)
 ![MODEL](/1.png)
 ### ii)Write the imagefile
 
-[MODEL](/2.png)
+![MODEL](/2.png)
 
 ### iii)Shape of the Image
-[MODEL](/3.png)
+![MODEL](/3.png)
 
 ### iv)Access rows and columns
-[MODEL](/4.png)
+![MODEL](/4.png)
 
 ### v)Cut and paste portion of image
-[MODEL](/5.png)
+![MODEL](/5.png)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
